@@ -1,3 +1,3 @@
-export { GifGrid } from "./GifGrid";
-export { AddCategoryInput } from "./AddCategoryInput";
-export { GifItem } from "./GifItem";
+export * from "./GifGrid";
+export * from "./AddCategoryInput";
+export * from "./GifItem";
